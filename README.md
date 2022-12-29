@@ -2,7 +2,7 @@
 <!-- badges -->
 <div align="center">
 
-# Best-Django-Admin-Templates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Best-Django-Admin-interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > The Best-Django-Admin-Templates resource.
 
 <img src="https://www.cloudsigma.com/wp-content/uploads/How-To-Enable-and-Connect-the-Django-Admin-Interface-1163x607.jpg" align="absmiddle"/> 
@@ -13,7 +13,7 @@
 
 
 <div align="center">
-<h1> Django Admin Templates resources.</h1>
+<h1>Best Django Admin interface resources.</h1>
 </div>
 
 <div align="center">
