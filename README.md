@@ -3,7 +3,7 @@
 <div align="center">
 
 # Best-Django-Admin-interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> The Best-Django-Admin-Templates resource.
+> The Best-Django-Admin-Interface Resource.
 
 <img src="https://www.cloudsigma.com/wp-content/uploads/How-To-Enable-and-Connect-the-Django-Admin-Interface-1163x607.jpg" align="absmiddle"/> 
 
