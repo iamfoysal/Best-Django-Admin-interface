@@ -7,7 +7,7 @@
 
 <img src="https://www.cloudsigma.com/wp-content/uploads/How-To-Enable-and-Connect-the-Django-Admin-Interface-1163x607.jpg" align="absmiddle"/> 
 
-[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/iamfoysal/Best-Django-Admin-Templates)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iamfoysal/Best-Django-Admin-Templates/blob/main/LICENSE)
+[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface/blob/main/LICENSE)
   
 </div>
 
