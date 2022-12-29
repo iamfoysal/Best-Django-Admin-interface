@@ -11,8 +11,10 @@
   
 </div>
 
-## Django Admin Templates resources.
 
+<div align="center">
+<h1> Django Admin Templates resources.</h1>
+</div>
 
 <div align="center">
  Admin interface resources
