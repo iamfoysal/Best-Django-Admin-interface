@@ -1,6 +1,7 @@
 
 <!-- badges -->
 <div align="center">
+  
 
 # Best-Django-Admin-interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > The Best-Django-Admin-Interface Resource.
@@ -51,5 +52,6 @@
 * [Django Semantic](https://github.com/globophobe/django-semantic-admin) - A completely free (MIT) Semantic UI admin theme for Django
 * [djamin](https://github.com/hersonls/djamin/) - A new style for Django admin.
 * [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5
+* [djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)- django CMS Admin Style is a Django Theme tailored to the needs of django CMS.
 
 
