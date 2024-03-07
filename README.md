@@ -6,7 +6,7 @@
 # Best-Django-Admin-interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > The Best-Django-Admin-Interface Resource.
 
-<img src="https://www.cloudsigma.com/wp-content/uploads/How-To-Enable-and-Connect-the-Django-Admin-Interface-1163x607.jpg" align="absmiddle"/> 
+<img src="django.jpg" align="django"/> 
 
 [![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface/blob/main/LICENSE)
   
