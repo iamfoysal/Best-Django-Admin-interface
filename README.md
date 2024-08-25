@@ -56,6 +56,6 @@
 * [django-admin-charts](https://github.com/PetrDlouhy/django-admin-charts)-Create beautiful configurable charts from your models and display them on the django-admin index page or on django-admin-tools dashboard. The charts are based on models and criterias defined through admin interface and some chart parameters are configurable in live view.
 * [django-adminlte2](https://github.com/adamcharnock/django-adminlte2)-A Django AdminLTE2 theme using adminlte3
 * [Black Dashboard Django](https://github.com/creativetimofficial/black-dashboard-django)-Black Dashboard - Open-source Django Template
-
+* [Django Unfold](https://github.com/unfoldadmin/django-unfold)- Modern Django admin theme for seamless interface development
 
 
