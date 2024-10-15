@@ -57,5 +57,6 @@
 * [django-adminlte2](https://github.com/adamcharnock/django-adminlte2)-A Django AdminLTE2 theme using adminlte3
 * [Black Dashboard Django](https://github.com/creativetimofficial/black-dashboard-django)-Black Dashboard - Open-source Django Template
 * [Django Unfold](https://github.com/unfoldadmin/django-unfold)- Modern Django admin theme for seamless interface development
+* [Django Daisy](https://github.com/hypy13/django-daisy)- Modern & Responsive & mobile friendly Django admin theme built with daisyui (tailwindcss)
 
 
