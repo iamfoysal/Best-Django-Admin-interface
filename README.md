@@ -1,7 +1,8 @@
 
 <!-- badges -->
-<div align="center">
 ![GitHub Contributors](https://img.shields.io/github/contributors/iamfoysal/Best-Django-Admin-interface)
+<div align="center">
+
 
 # Best-Django-Admin-interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > The Best-Django-Admin-Interface Resource.
@@ -67,6 +68,39 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
 
 ## Contributors
 
