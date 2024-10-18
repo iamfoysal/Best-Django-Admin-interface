@@ -22,7 +22,7 @@
 <div align="center">
  Admin interface resources
   <br>
- *Packages that extend the Admin interface, adding or improving features.*
+ <strong>Packages that extend the Admin interface, adding or improving features.</strong>
   <br>
 </div>
 
