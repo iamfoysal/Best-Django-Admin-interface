@@ -62,6 +62,7 @@
 * [Django Daisy](https://github.com/hypy13/django-daisy)- Modern & Responsive & mobile friendly Django admin theme built with daisyui (tailwindcss)
 * [Django-mptt-admin](https://github.com/mbraak/django-mptt-admin)- Django-mptt-admin provides a nice Django Admin interface for Mptt models
 * [Django-mass-edit](https://github.com/burke-software/django-mass-edit)- Make bulk changes in the Django admin interface
+* [Django Semantic Admin](https://github.com/globophobe/django-semantic-admin)- ✨ Django Semantic UI admin theme
 
 
 
