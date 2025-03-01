@@ -16,7 +16,8 @@
 **Packages that extend the Admin interface, adding or improving features.**
 
 
-## Resources
+# Django Resources
+
 
 ### Django Admin Themes & UI Enhancements
 
@@ -63,12 +64,65 @@
 - **[djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)** - Django CMS Admin Style tailored for django CMS. [D 2.2+]
 
 
+<hr>
 
+## **Django Learning Resources**  
 
+### **Books**  
+1. **Django 2 by Example** - [Antonio Mele](https://drive.google.com/file/d/1zZaSEaAR7U32UE27gxLZIL5jVDp06mHr/view?usp=sharing)  
+2. **Two Scoops of Django Best Practices for Django 1.8** - [Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://drive.google.com/file/d/1BxLm517n4Hk0IVBCzTmCY21ejT-M1UEn/view?usp=sharing)  
+3. **Lightweight Django: Using REST, WebSockets, and Backbone** - [Julia Elman, Mark Lavin](https://drive.google.com/file/d/19Dfl6ks_heYOpB6khhkAeoEGsAM4kmUH/view?usp=sharing)  
+4. **High Performance Django** - [Baumgartner, P.; Malet, Y.](https://drive.google.com/file/d/1BUIN3FcH7_Yl1zDyMSEBZJ-seTYSEFsN/view?usp=sharing)  
+5. **Django RESTful Web Services** - [Gaston C. Hillar](https://drive.google.com/file/d/1ipgTecJawp7OQC3wrwAYU5qQB_jS4UP5/view?usp=sharing)  
+6. **Django Cookbook Web Development with Django** - [Beau Curtin](https://drive.google.com/file/d/1lzISiqbEqJP7Vs8C7k0f1XC16ChFbKug/view?usp=sharing)  
+7. **Django ORM Cookbook** - [Agiliq](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/)  
+8. **Building APIs with Django and Django Rest Framework** - [Agiliq](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)  
+9. **Django Admin Cookbook** - [Agiliq](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)  
 
+---
 
+### **Blogs**  
+1. **Simple is Better Than Complex** - [simpleisbetterthancomplex.com](https://simpleisbetterthancomplex.com/)  
+2. **Django Girls Tutorial** - [djangogirls](https://tutorial.djangogirls.org/en/how_the_internet_works/)  
+3. **Coding for Entrepreneurs** - [codingforentrepreneurs.com](https://www.codingforentrepreneurs.com/projects)  
+4. **Valentinog - Django REST with React** - [valentinog.com](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)  
+5. **Wsvincent - Django Rest Framework with React Tutorial** - [wsvincent.com](https://wsvincent.com/django-rest-framework-react-tutorial/)  
 
+---
 
+### **Websites**  
+1. **Django Official Documentation** - [docs.djangoproject.com](https://docs.djangoproject.com/en/2.1/intro/)  
+2. **DjangoSites - Django Projects with Source Code** - [djangosites.org](https://www.djangosites.org/with-source/)  
+3. **Mozilla - Django Web Framework** - [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)  
+4. **Marina Mele - TaskBuster Django Tutorial** - [marinamele.com](http://www.marinamele.com/taskbuster-django-tutorial)  
+5. **TutorialsPoint - Django Tutorial** - [tutorialspoint.com](https://www.tutorialspoint.com/django/)  
+6. **JavaTpoint - Django Tutorial** - [javatpoint.com](https://www.javatpoint.com/django-tutorial)  
+7. **Django Marcador** - [django-marcador.keimlink.de](http://django-marcador.keimlink.de/)  
+
+---
+
+### **YouTube Tutorials**  
+1. **Max Goodridge - Django Tutorials** - [YouTube](https://www.youtube.com/playlist?list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)  
+2. **Parwiz Forogh - Learn Django 2.1** - [YouTube](https://www.youtube.com/playlist?list=PL1FgJUcJJ03v0YDsbsRbKb6KOxyNjTLFF)  
+3. **HighFiveCode - Learn Django 2.0 with PollMe** - [YouTube](https://www.youtube.com/playlist?list=PLjIu7NinqwsLmiOkCzy9ZYGQxQzw-304O)  
+4. **Thenewboston - Django Tutorials for Beginners** - [YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)  
+5. **freeCodeCamp.org - Full Django Course** - [YouTube](https://www.youtube.com/watch?v=F5mRW0jo-U4)  
+6. **Aarav Tech - Django Rest Framework Tutorials** - [YouTube](https://www.youtube.com/playlist?list=PL1WVjBsN-_NJ4urkLt7iVDocVu_ZQgVzF)  
+7. **CodingEntrepreneurs - Build a Django REST API** - [YouTube](https://www.youtube.com/watch?v=tG6O8YF91HE&t=741s)  
+8. **Sentdex - Django Web Development with Python** - [YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)  
+9. **CodingEntrepreneurs - Try Django Tutorial Series** - [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)  
+10. **Corey Schafer - Django Tutorials** - [YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)  
+11. **ePayMinds - Build a Django eCommerce App** - [YouTube](https://www.youtube.com/playlist?list=PLV2_Iivd4jxYVDWCcxmccusNaUx2kWCg1)  
+12. **Derek Banas - Django Tutorial** - [YouTube](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSMqZiTTsAC7C8Ypp81Jt6D)  
+13. **Vineeth Sai - Inventory Management System in Django** - [YouTube](https://www.youtube.com/playlist?list=PLTPOhsA1ovnkyBbnG5RwF9YFWLCqsD0Nf)  
+14. **Free Online Courses - Django for WordPress Developers** - [YouTube](https://www.youtube.com/playlist?list=PLw_k9CF7hBpLIdKAhjZDlP3YUWAP1tOqA)  
+15. **Traversy Media - Full Stack React & Django** - [YouTube](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)  
+16. **The Dumbfounds - Django Design Patterns** - [YouTube](https://www.youtube.com/playlist?list=PLbpAWbHbi5rM736O4ivIfedpetuRFMB9U)  
+17. **Pretty Printed - Django Tutorials** - [YouTube](https://www.youtube.com/playlist?list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)  
+18. **JustDjango - Django Intermediate** - [YouTube](https://www.youtube.com/playlist?list=PLLRM7ROnmA9HEta6gV4j4h2WfmIOC23EH)  
+19. **CodingEntrepreneurs - Try Django v2.2** - [YouTube](https://youtu.be/-oQvMHpKkms)  
+20. **Telusko - Django Tutorial for Beginners** - [YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)  
+21. **Arbadjie - Developing a Computer Inventory Management System** - [YouTube](https://www.youtube.com/playlist?list=PL6RgKo1nB4TnML7zlusWROAPbA8AM14hN)  
 
 
 
