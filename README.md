@@ -175,10 +175,6 @@
 ---
 
 
-Here's the updated version of your **Django Learning Resources** with emojis and icons to make it more attractive:
-
----
-
 # 🚀 **Django Learning Resources**
 
 ### 📚 **Books**  
