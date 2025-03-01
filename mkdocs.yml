@@ -1,0 +1,6 @@
+site_name: Best Django Admin Interface
+nav:
+  - Home: index.md
+theme:
+  name: material
+
