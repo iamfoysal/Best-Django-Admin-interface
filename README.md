@@ -66,9 +66,122 @@
 
 <hr>
 
-## **Django Learning Resources**  
+# 🚀 Django Resources and Libraries for easy development
 
-### **Books**  
+
+### **🖥️ Django REST Framework & API-Related Packages**
+
+#### **📡 API Development**  
+1. **[Django REST Framework](https://www.django-rest-framework.org/)** - Web APIs for Django.  
+2. **[django-ninja](https://django-ninja.rest-framework.com/)** - Fast Django REST framework based on type annotations.  
+3. **[django-tastypie](https://django-tastypie.readthedocs.io/en/latest/)** - Creating APIs for Django apps since 2010.  
+4. **[django-rest-framework-routers](https://github.com/alanjds/drf-routers)** - Extends URL routing with auto-generated routes for models.  
+5. **[django-rest-framework-validators](https://github.com/miguelmota/django-rest-framework-validators)** - A collection of reusable validators for DRF fields.  
+
+#### **🔒 Authentication & Authorization**  
+6. **[dj-rest-auth](https://github.com/iMerica/dj-rest-auth)** - Authentication for Django Rest Framework.  
+7. **[django-rest-knox](https://github.com/James1345/django-rest-knox)** - Authentication module for `dj-rest-auth`.  
+8. **[djoser](https://github.com/sunscrapers/djoser)** - REST implementation of Django authentication.  
+9. **[django-rest-framework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt)** - JSON web tokens for DRF.  
+10. **[django-axes](https://github.com/jazzband/django-axes)** - Protects Django from brute-force login attempts.  
+11. **[django-allauth](https://github.com/pennersr/django-allauth)** - Authentication, registration, and social login integration.  
+12. **[django-guardian](https://github.com/django-guardian/django-guardian)** - Implements per-object permissions for Django models.  
+
+#### **📑 API Documentation & OpenAPI Schema Generation**  
+13. **[drf-yasg](https://github.com/axnsan12/drf-yasg)** - Swagger/OpenAPI schema generation for DRF.  
+14. **[drf-spectacular](https://github.com/tfranzel/drf-spectacular)** - Sane OpenAPI 3 schema generation for DRF.  
+15. **[django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger)** - Integrates DRF with Swagger documentation.  
+16. **[django-openapi-tester](https://github.com/ax3l/django-openapi-tester)** - Automatically tests your APIs with OpenAPI specifications.  
+
+#### **🌐 CORS & Webhooks**  
+17. **[django-cors-headers](https://github.com/adamchainz/django-cors-headers)** - Handles CORS when back-end and front-end are on different servers.  
+18. **[django-webhook](https://github.com/RealOrangeOne/django-webhook)** - For sending outgoing webhooks on model changes.  
+
+#### **🔮 GraphQL for Django**  
+19. **[graphene-django](https://github.com/graphql-python/graphene-django)** - GraphQL integration for Django.  
+20. **[graphene-django-filter](https://github.com/philipn/django-filter)** - Advanced GraphQL filters for Django with logical operators.  
+21. **[graphene-django-extras](https://github.com/FlipperPA/graphene-django-extras)** - Extends graphene-django with extra features like full-text search.  
+
+#### **🛠️ Other Utilities**  
+22. **[djaq](https://github.com/paul-wolf/djaq)** - Instant remote API to Django models with a powerful query language.  
+23. **[django-webpack-loader](https://github.com/django-webpack/webpack-loader)** - Use Webpack with Django seamlessly.  
+24. **[django-rest-framework-multidb](https://github.com/miki725/django-rest-framework-multidb)** - Adds support for multiple databases in DRF APIs.  
+
+---
+
+### **🧪 Development & Testing Tools**  
+1. **[pytest-django](https://github.com/pytest-dev/pytest-django)** - Integrates `pytest` with Django for enhanced testing.  
+2. **[factory_boy](https://github.com/marvinpinto/factory-boy)** - For generating fake data for testing and development.  
+3. **[django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)** - A set of panels for debugging Django queries, templates, etc.  
+4. **[coverage.py](https://github.com/nedbat/coveragepy)** - Measures code coverage for your Django tests.  
+5. **[django-model-utils](https://github.com/jazzband/django-model-utils)** - Provides utilities for Django models, including `TimeStampedModel`, `StatusModel`, and others.  
+6. **[django-test-plus](https://github.com/dcramer/django-test-plus)** - Enhances Django’s test suite with extra utilities.  
+7. **[pytest-factoryboy](https://github.com/FactoryBoy/pytest-factoryboy)** - Integrates `factory_boy` with `pytest` for test fixtures.  
+
+---
+
+### **⚡ Performance & Caching**  
+1. **[django-redis](https://github.com/jazzband/django-redis)** - Uses Redis as a caching backend for improved performance.  
+2. **[django-debug-toolbar-request-history](https://github.com/dcramer/django-debug-toolbar-request-history)** - Extends Debug Toolbar for request history tracking.  
+3. **[django-storages](https://github.com/jschneier/django-storages)** - Easy file storage integration for cloud services like AWS S3.  
+4. **[django-silk](https://github.com/jazzband/django-silk)** - Profiling tool for Django that tracks SQL queries, cache usage, and request times.  
+5. **[django-celery-results](https://github.com/celery/django-celery-results)** - Stores results of Celery tasks in Django's database.  
+6. **[django-compressor](https://github.com/django-compressor/django-compressor)** - Compresses linked and inline JavaScript and CSS into a single cached file.
+
+---
+
+### **📂 File Management & Uploads**  
+1. **[django-filebrowser](https://github.com/sehmaschine/django-filebrowser)** - A file management system for easy media management in Django.  
+2. **[django-imagekit](https://github.com/matthewwithanm/django-imagekit)** - Toolkit for image processing like resizing and thumbnails.  
+3. **[django-uploadify](https://github.com/Unicron/django-uploadify)** - Provides easy file upload capabilities.  
+
+---
+
+### **🛡️ Security & Authentication**  
+1. **[django-secure](https://github.com/django/django-secure)** - Set of security extensions for Django to protect against XSS, CSRF, etc.  
+2. **[django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth)** - Adds two-factor authentication to Django apps.  
+3. **[django-passwords](https://github.com/haselkern/django-passwords)** - Provides password validation and policy enforcement.  
+4. **[django-otp](https://github.com/django-otp/django-otp)** - Adds support for one-time password systems in Django.
+
+---
+
+### **🕒 Task Scheduling & Background Jobs**  
+1. **[django-celery](https://github.com/celery/django-celery)** - Integrates Celery with Django for background tasks and task queues.  
+2. **[django-background-tasks](https://github.com/arteria/django-background-tasks)** - A simpler background task processing library for Django.  
+3. **[django-q](https://github.com/Koed00/django-q)** - Multi-queue system for Django to handle asynchronous tasks.  
+
+---
+
+### **📊 Data Import/Export**  
+1. **[django-import-export](https://github.com/django-import-export/django-import-export)** - Import and export model data to/from formats like CSV, Excel, JSON.  
+2. **[django-modeltranslation](https://github.com/deschler/django-modeltranslation)** - Adds multilingual fields for translating content in Django models.  
+3. **[django-data-wizard](https://github.com/django-data-wizard/django-data-wizard)** - A data import/export utility with a UI for Django.
+
+---
+
+### **🎨 Frontend & UI Integration**  
+1. **[django-webpack-loader](https://github.com/django-webpack/webpack-loader)** - Integrate Webpack with Django for front-end asset management.  
+2. **[django-sass](https://github.com/jrief/django-sass)** - Integrates Sass for CSS preprocessing in Django.  
+3. **[django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms)** - Better form rendering with a cleaner layout.  
+4. **[django-formtools](https://github.com/django/django-formtools)** - Provides form utilities like multi-step forms for Django.
+
+---
+
+### **🌍 Internationalization & Localization**  
+1. **[django-rosetta](https://github.com/jezdez/django-rosetta)** - UI for translating Django `.po` files.  
+2. **[django-localeurl](https://github.com/diacritic/django-localeurl)** - Provides automatic URL routing for multilingual websites.  
+3. **[django-modeltranslation](https://github.com/deschler/django-modeltranslation)** - Enables multilingual fields for your models.  
+
+---
+
+
+Here's the updated version of your **Django Learning Resources** with emojis and icons to make it more attractive:
+
+---
+
+# 🚀 **Django Learning Resources**
+
+### 📚 **Books**  
 1. **Django 2 by Example** - [Antonio Mele](https://drive.google.com/file/d/1zZaSEaAR7U32UE27gxLZIL5jVDp06mHr/view?usp=sharing)  
 2. **Two Scoops of Django Best Practices for Django 1.8** - [Daniel Roy Greenfeld, Audrey Roy Greenfeld](https://drive.google.com/file/d/1BxLm517n4Hk0IVBCzTmCY21ejT-M1UEn/view?usp=sharing)  
 3. **Lightweight Django: Using REST, WebSockets, and Backbone** - [Julia Elman, Mark Lavin](https://drive.google.com/file/d/19Dfl6ks_heYOpB6khhkAeoEGsAM4kmUH/view?usp=sharing)  
@@ -81,7 +194,7 @@
 
 ---
 
-### **Blogs**  
+### 📝 **Blogs**  
 1. **Simple is Better Than Complex** - [simpleisbetterthancomplex.com](https://simpleisbetterthancomplex.com/)  
 2. **Django Girls Tutorial** - [djangogirls](https://tutorial.djangogirls.org/en/how_the_internet_works/)  
 3. **Coding for Entrepreneurs** - [codingforentrepreneurs.com](https://www.codingforentrepreneurs.com/projects)  
@@ -90,7 +203,7 @@
 
 ---
 
-### **Websites**  
+### 🌐 **Websites**  
 1. **Django Official Documentation** - [docs.djangoproject.com](https://docs.djangoproject.com/en/2.1/intro/)  
 2. **DjangoSites - Django Projects with Source Code** - [djangosites.org](https://www.djangosites.org/with-source/)  
 3. **Mozilla - Django Web Framework** - [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)  
@@ -101,7 +214,7 @@
 
 ---
 
-### **YouTube Tutorials**  
+### 🎥 **YouTube Tutorials**  
 1. **Max Goodridge - Django Tutorials** - [YouTube](https://www.youtube.com/playlist?list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)  
 2. **Parwiz Forogh - Learn Django 2.1** - [YouTube](https://www.youtube.com/playlist?list=PL1FgJUcJJ03v0YDsbsRbKb6KOxyNjTLFF)  
 3. **HighFiveCode - Learn Django 2.0 with PollMe** - [YouTube](https://www.youtube.com/playlist?list=PLjIu7NinqwsLmiOkCzy9ZYGQxQzw-304O)  
@@ -122,8 +235,7 @@
 18. **JustDjango - Django Intermediate** - [YouTube](https://www.youtube.com/playlist?list=PLLRM7ROnmA9HEta6gV4j4h2WfmIOC23EH)  
 19. **CodingEntrepreneurs - Try Django v2.2** - [YouTube](https://youtu.be/-oQvMHpKkms)  
 20. **Telusko - Django Tutorial for Beginners** - [YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)  
-21. **Arbadjie - Developing a Computer Inventory Management System** - [YouTube](https://www.youtube.com/playlist?list=PL6RgKo1nB4TnML7zlusWROAPbA8AM14hN)  
-
+21. **Arbadjie - Developing a Computer Inventory Management System** - [YouTube](https://www.youtube.com/playlist?list=PL6RgKo1nB4TnML7zlusWROAPbA8AM14hN)
 
 
 
@@ -156,7 +268,7 @@
 
 <hr>
 
-## Contributors
+# Contributors
 
 # Best Django Admin Interface Resources
 
