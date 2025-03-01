@@ -1,0 +1,45 @@
+name: Generate and Publish Documentation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    :
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+
+      - name: Generate documentation
+        run: |
+          echo "import shutil" > generate_docs.py
+          echo "def generate_docs():" >> generate_docs.py
+          echo "    with open('README.md', 'r') as readme_file:" >> generate_docs.py
+          echo "        readme_content = readme_file.read()" >> generate_docs.py
+          echo "    with open('docs/index.md', 'w') as index_file:" >> generate_docs.py
+          echo "        index_file.write(readme_content)" >> generate_docs.py
+          echo "if __name__ == '__main__':" >> generate_docs.py
+          echo "    generate_docs()" >> generate_docs.py
+          python generate_docs.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs

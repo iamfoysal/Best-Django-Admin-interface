@@ -26,7 +26,6 @@
   <br>
 </div>
 
-## Resources
 
 * [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface [D 4.x]
 * [Django Jazzmin](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy [D >= 2]
