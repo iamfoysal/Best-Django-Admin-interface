@@ -1,0 +1,16 @@
+
+env/
+.env
+node_modules/
+build/
+dist/
+coverage/
+*.log
+*.log.*
+*.log-*
+site/
+generate_docs.py
+*.pyc
+docs/
+*.swp
+mkdocs.yml
