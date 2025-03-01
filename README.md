@@ -1,30 +1,20 @@
+<!-- Badges -->
+![GitHub Contributors](https://img.shields.io/github/contributors/iamfoysal/Best-Django-Admin-interface)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=iamfoysal/Best-Django-Admin-interface&countColor=%23263759)
 
-<!-- badges -->
-![GitHub Contributors](https://img.shields.io/github/contributors/iamfoysal/Best-Django-Admin-interface) ![Visitors](https://api.visitorbadge.io/api/visitors?path=iamfoysal/Best-Django-Admin-interface&countColor=%23263759)
-<div align="center">
-  
+# Best Django Admin Interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> The Best Django Admin Interface Resource.
 
-# Best-Django-Admin-interface [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> The Best-Django-Admin-Interface Resource.
+![Django Admin](django.jpg)
 
-<img src="django.jpg" align="django"/> 
+[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface/blob/main/LICENSE)
 
-[![Repository](https://img.shields.io/badge/GitHub-URL-orange.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iamfoysal/Best-Django-Admin-interface/blob/main/LICENSE)
-  
-</div>
+## Best Django Admin Interface Resources
 
+**Packages that extend the Admin interface, adding or improving features.**
 
-<div align="center">
-<h1>Best Django Admin interface resources.</h1>
-</div>
-
-<div align="center">
- Admin interface resources
-  <br>
- <strong>Packages that extend the Admin interface, adding or improving features.</strong>
-  <br>
-</div>
 
 ## Resources
 

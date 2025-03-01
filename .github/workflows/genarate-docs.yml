@@ -5,7 +5,7 @@ on:
     branches:
       - main
   pull_request:
-    :
+    branches:
       - main
 
 jobs:
@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
@@ -28,18 +28,17 @@ jobs:
 
       - name: Generate documentation
         run: |
-          echo "import shutil" > generate_docs.py
-          echo "def generate_docs():" >> generate_docs.py
-          echo "    with open('README.md', 'r') as readme_file:" >> generate_docs.py
-          echo "        readme_content = readme_file.read()" >> generate_docs.py
-          echo "    with open('docs/index.md', 'w') as index_file:" >> generate_docs.py
-          echo "        index_file.write(readme_content)" >> generate_docs.py
-          echo "if __name__ == '__main__':" >> generate_docs.py
-          echo "    generate_docs()" >> generate_docs.py
-          python generate_docs.py
+          mkdir -p docs
+          cp README.md docs/index.md
+
+      - name: Upload Documentation Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: documentation
+          path: docs/
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
