@@ -13,11 +13,6 @@
 
 ## Best Django Admin Interface Resources
 
-**Packages that extend the Admin interface, adding or improving features.**
-
-
-# Django Resources
-
 
 ### Django Admin Themes & UI Enhancements
 
